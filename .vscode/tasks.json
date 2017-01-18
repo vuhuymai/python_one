@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "command": "/Users/vumai/VuCode/Python/one/.lpvenv/bin/python",
+    "isShellCommand": true,
+    "args": ["${file}"],
+    "showOutput": "always"
+}
