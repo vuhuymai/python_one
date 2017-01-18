@@ -8,7 +8,7 @@ http://stackoverflow.com/questions/3654830/why-are-there-no-and-operators-in-pyt
 '''
 
 # PYTHON'S NULL EQUIVALENT: None
-
+'''
 http://pythoncentral.io/python-null-equivalent-none/
 
 assign the None type to a variable
@@ -19,3 +19,8 @@ if database_connection is None:
     print('The database could not connect')
 else:
     print('The database could connect')
+
+It is preferable to use "is None" rather than "== None" to check if a variable is None
+
+it's always advisable to use the is keyword to check if two variables are exactly the same
+'''
